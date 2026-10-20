@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SQL Checkbox</title>
     <?php include('header/koneksi.php');?>
     <?php include('header/style.php');?>
 </head>
